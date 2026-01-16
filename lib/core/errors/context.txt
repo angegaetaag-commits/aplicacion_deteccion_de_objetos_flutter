@@ -1,0 +1,1 @@
+# Manejo de fallas (ej: "No hay conexión con Ubuntu") o con el modelo IA

@@ -1,0 +1,1 @@
+ # Clases base (ObjetoDetectado, MensajeConversacion).

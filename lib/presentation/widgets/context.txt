@@ -1,0 +1,1 @@
+# Componentes visuales (MicButton, ResultCard, Painter).
